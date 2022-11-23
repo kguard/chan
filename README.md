@@ -12,7 +12,7 @@ It's windy
 난 됨
 밥 뭐 먹을까?
 밥 머먹을까
-
+충돌발생 충돌방생
 If you just waitI can't
 
 To those who are waiting
