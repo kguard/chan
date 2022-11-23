@@ -6,6 +6,7 @@
 
 Now I get it
 
+난 바람이다.
 It's windy
 
 If you just waitI can't
