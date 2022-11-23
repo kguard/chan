@@ -11,6 +11,7 @@ It's windy
 나는 왜 안 됨?
 난 됨
 밥 뭐 먹을까?
+밥 머먹을까
 
 If you just waitI can't
 
