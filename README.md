@@ -2,8 +2,7 @@
 
 **code for git test**
 
-**PASS😶**
----
+## **PASS😶**
 
 Now I get it
 
@@ -33,10 +32,10 @@ My walk
 
 The whole road is a wind road.
 
+## **important🧐**
 
-**important🧐**
----
-- you have to change `example.html` to  `content.html`
+- you have to change `example.html` to `content.html`
 
 - If you don't know where to put, then use `ctrl` + `f` => check
 - i'm a
+- dho dks eho
