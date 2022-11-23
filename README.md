@@ -8,6 +8,7 @@ Now I get it
 
 난 바람이다.
 It's windy
+나는 왜 안 됨?
 
 If you just waitI can't
 
