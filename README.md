@@ -7,7 +7,7 @@
 Now I get it
 
 It's windy
-sumin's readme
+sumin's readmel
 If you just waitI can't
 
 To those who are waiting
