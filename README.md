@@ -10,6 +10,7 @@ Now I get it
 It's windy
 나는 왜 안 됨?
 난 됨
+밥 머먹을까
 
 If you just waitI can't
 
